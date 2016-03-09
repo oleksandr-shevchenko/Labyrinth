@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfReportOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ReportOfGame>
+    <name>testName1</name>
+    <coins>23</coins>
+    <reasonOfLosing>Exit</reasonOfLosing>
+    <time>89</time>
+  </ReportOfGame>
+  <ReportOfGame>
+    <name>testName1</name>
+    <coins>33</coins>
+    <reasonOfLosing>Death</reasonOfLosing>
+    <time>101</time>
+  </ReportOfGame>
+  <ReportOfGame>
+    <name>testName2</name>
+    <coins>0</coins>
+    <reasonOfLosing>Exit</reasonOfLosing>
+    <time>1</time>
+  </ReportOfGame>
+  <ReportOfGame>
+    <name>testName2</name>
+    <coins>0</coins>
+    <reasonOfLosing>Exit</reasonOfLosing>
+    <time>1</time>
+  </ReportOfGame>
+</ArrayOfReportOfGame>
